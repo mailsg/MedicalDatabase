@@ -89,7 +89,7 @@ Clone this repository to your desired folder:
 
 👤 **Phelelani Ndlovu**
 
-- GitHub: [@mailsg](https://github.com/techmoves)
+- GitHub: [@techmoves](https://github.com/techmoves)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/phelelani-ndlovu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
